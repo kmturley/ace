@@ -185,6 +185,7 @@ var supportedModes = {
     Scheme:      ["scm|sm|rkt|oak|scheme"],
     Scrypt:      ["scrypt"],
     SCSS:        ["scss"],
+    Sfz:         ["sfz"],
     SH:          ["sh|bash|^.bashrc"],
     SJS:         ["sjs"],
     Slim:        ["slim|skim"],
